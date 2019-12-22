@@ -15,4 +15,10 @@ II](http://www.virtualii.com/), [MAME](https://www.mamedev.org/) or [Apple
 * Original article: [Tremplin Micro 19 magazine](https://archive.org/details/tremplin_micro_newsletter_issue_19)
 * Original floppy: [Tremplin Micro 19 floppy](https://mirrors.apple2.org.za/ftp.apple.asimov.net/images/non-english/french/tremplinmicro/tremplinmicro_19_disks.zip)
 
+----
+
 ![](article/figures/Tremplin-Micro-19-p1.jpg)
+
+![](article/figures/Tremplin-Micro-19-p60.jpg)
+
+![](article/figures/Tremplin-Micro-19-p61.jpg)
