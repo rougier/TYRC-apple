@@ -10,4 +10,4 @@ II](http://www.virtualii.com/), [MAME](https://www.mamedev.org/) or [Apple
 //jse]( https://www.scullinsteel.com/apple/e)), load the
 [challenge.dsk](challenge.dsk) and boot it. Then follow instruxtion
 
-Corresponding article: [article.pdf](article/article.pdf)
+![](article/article.pdf)

@@ -41,7 +41,7 @@ keywords: ten years reproducibility challenge, apple 2e
 # You can get a DOI for your code from Zenodo,
 #   see https://guides.github.com/activities/citable-code/
 code:
-  - url: https://github.com/rescience-c/template
+  - url: https://github.com/rougier/TYRC-apple
   - doi: 
 
 # Date URL and DOI (optional if no data)
