@@ -43,6 +43,7 @@ keywords: ten years reproducibility challenge, apple //e
 code:
   - url: https://github.com/rougier/TYRC-apple
   - doi: 
+  - swh: swh:1:dir:378ef456812b3e3c1a605c93da8c15975b6decf6
 
 # Date URL and DOI (optional if no data)
 data:
@@ -85,10 +86,10 @@ review:
   - url: 
 
 contributors:
-  - name:
-    orcid: 
+  - name: Konrad Hinsen
+    orcid: 0000-0003-0330-9428
     role: editor
-  - name:
+  - name: Bruno Levy
     orcid:
     role: reviewer
   - name:
@@ -98,12 +99,12 @@ contributors:
 # This information will be provided by the editor
 dates:
   - received:  January 1, 2020
-  - accepted:
-  - published: 
+  - accepted:  June 4, 2020
+  - published: June 4, 2020
 
 # This information will be provided by the editor
 article:
-  - number: # Article number will be automatically assigned during publication
+  - number: 3
   - doi:    # DOI from Zenodo
   - url:    # Final PDF URL (Zenodo or rescience website?)
 
@@ -111,5 +112,5 @@ article:
 journal:
   - name:   "ReScience C"
   - issn:   2430-3658
-  - volume: 5
-  - issue:  2
+  - volume: 6
+  - issue:  1
