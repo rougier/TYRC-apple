@@ -100,13 +100,13 @@ contributors:
 dates:
   - received:  January 1, 2020
   - accepted:  June 4, 2020
-  - published: June 4, 2020
+  - published: June 9, 2020
 
 # This information will be provided by the editor
 article:
   - number: 3
-  - doi:    # DOI from Zenodo
-  - url:    # Final PDF URL (Zenodo or rescience website?)
+  - doi:    10.5281/zenodo.3886628
+  - url:    https://zenodo.org/record/3886628/files/article.pdf
 
 # This information will be provided by the editor
 journal:
